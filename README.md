@@ -57,6 +57,7 @@ L'única diferència que hi ha entre aquesta i la del professorat es que l'admin
 
 ### Pantalla d'analisis, visió d'alumne.
 Seguint el patró de la pantalla anterior, l'única gran diferència entre aquesta i la pantalla d'anàlisis de l'alumne es que l'administrador pot escollir l'alumne que es mostra. 
+
 ![imatge](https://github.com/user-attachments/assets/cb9b6655-09cb-4b63-b0b8-1a28ed866283)
 
 
