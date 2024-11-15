@@ -22,3 +22,8 @@ En canvi, els textos més petits que remaquen l'ús dels gràfics no tenen un co
 
 ![imagen](https://github.com/user-attachments/assets/39039bfd-0bcd-4168-ad1b-d3ff5c6490cd)
 ![imagen](https://github.com/user-attachments/assets/ccb847cf-408e-487d-9445-4faa72faa085)
+
+# Disseny de la base de dades i explicacions
+
+![imatge](https://github.com/user-attachments/assets/9ec6416f-b651-43d3-9c6f-a93e1bcac0a3)
+
